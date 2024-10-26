@@ -21,6 +21,7 @@ Diferente da Mega-Sena, onde são sorteados 6 números, no TriLegal você tem um
 <br>
 # Por fim descubra se você ganhou alguma coisa...
 A minha experiência está bem fiel aos meus resultados reais kkkk
+<br>
 ![image](https://github.com/user-attachments/assets/2396ba54-276e-4249-beaa-0f03bdf1dcb8)
 <br>
 <br>
@@ -30,7 +31,7 @@ A minha experiência está bem fiel aos meus resultados reais kkkk
 <br>
 
 ## Uma personalização que curti fazer...
-Pra deixar a experiência mais interessante, criei um gerador interno de pessoas, onde o NOME + SOBRENOME + CIDADE são construídos de forma dinâmica utilizando:
+Não sei se você percebeu, mas pra deixar a experiência mais interessante, criei um gerador interno de pessoas, onde o NOME + SOBRENOME + CIDADE são construídos de forma dinâmica utilizando:
 * Nome: Lista com mais de 400 nomes brasileiros - créditos ao projeto br-nome-gen do [@victorwss](https://github.com/victorwss/br-nome-gen/)
-* Sobrenome: Lista de sobrenomes mais comuns no Rio Grande do Sul
+* Sobrenome: Lista de sobrenomes mais comuns no Rio Grande do Sul que capturei atrávés de pesquisas oficiais e matérias na internet
 * Cidade: Lista de cidades da região metropolitana de Porto Alegre (onde o Trilegal é vendido)
